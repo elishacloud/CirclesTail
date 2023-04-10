@@ -6,12 +6,12 @@ Circle's Tail is a screensaver that I created a long time ago. Initially, it was
 
 ### Installation
 
-1. Rename `CirclesTail.exe` to `CirclesTail.scr`
-2. Copy `CirclesTail.scr` to the Windows System32 folder.
+1. Extract the `CirclesTail.scr` file from the zip file.
+2. Copy `CirclesTail.scr` to the Windows System32 folder (C:\Windows\System32).
 
 ### Uninstallation
 
-Delete `CirclesTail.scr` to the Windows System32 folder.
+Delete the `CirclesTail.scr` file from the Windows System32 folder (C:\Windows\System32).
 
 ### Donations
 
