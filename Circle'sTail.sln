@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Circle'sTail", "Circle'sTail.vbproj", "{0F1002CA-CF3A-49DC-BCA6-400696F3230A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F1002CA-CF3A-49DC-BCA6-400696F3230A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1002CA-CF3A-49DC-BCA6-400696F3230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1002CA-CF3A-49DC-BCA6-400696F3230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1002CA-CF3A-49DC-BCA6-400696F3230A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1E5CDD7-CFBE-40C8-849E-E818A8C7C242}
+	EndGlobalSection
+EndGlobal
