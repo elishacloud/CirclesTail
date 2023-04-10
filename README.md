@@ -2,6 +2,8 @@
 ### Introduction
 Circle's Tail is a screensaver that I created a long time ago. Initially, it was developed in Quick Basic and later converted to Visual Basic.NET. The screensaver features a moving line that travels inside a circle while the circle moves around on the screen. Users can customize the number of circles and lines to display simultaneously and have the option to keep the trail of both the lines and circles. By experimenting with different settings, users can create a wide variety of unique screensavers. The program includes several templates that offer some examples.
 
+<img src="https://user-images.githubusercontent.com/25625456/230973772-c50a6243-3366-4298-b8e9-91b534535abc.png" width="50%">
+
 ### Installation
 
 1. Rename `CirclesTail.exe` to `CirclesTail.scr`
